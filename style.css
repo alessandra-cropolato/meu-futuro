@@ -47,4 +47,6 @@ padding: 24px 0;
 }
 .logo{
     justify-content: center;
+    align-items: center;
+    padding: 24px 0;
 }
