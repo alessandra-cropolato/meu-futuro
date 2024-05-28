@@ -35,7 +35,7 @@ padding: 24px 0;
 .titulo{
     padding: 24px 0;
 }
-.imagem-do-futuro{width: 20%;} 
+.imagem-do-futuro{width: 15%;} 
 
 
 .imagem-do-whatsapp{
@@ -44,4 +44,7 @@ padding: 24px 0;
 
 .imagem-do-instagram{
     width: 20%;
+}
+.logo{
+    justify-content: center;
 }
